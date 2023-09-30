@@ -10,3 +10,4 @@ combobox = ttk.Combobox(frame, values = ["ОДИН", "ДВА", "ТРИ"], height
 combobox.set(u'ОДИН')
 combobox.grid(column=0,row=0)
 root.mainloop()
+
